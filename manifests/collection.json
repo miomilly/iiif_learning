@@ -11,5 +11,11 @@
       "en" : [ "图像集合" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://miomilly.github.io/iiif_learning/manifests/manifest123.json",
+    "label" : {
+      "en" : [ "图像集合" ]
+    },
+    "type" : "Manifest"
   } ]
 }
