@@ -1,0 +1,15 @@
+{
+  "id" : "https://miomilly.github.io/iiif_learning/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in miomilly/iiif_learning project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://miomilly.github.io/iiif_learning/manifests/manifest",
+    "label" : {
+      "en" : [ "图像集合" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
